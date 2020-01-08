@@ -2,6 +2,16 @@
 
 Simple CLI wrapper for libseccomp library written in Go.
 
+## Installation
+
+- Go 1.11
+- C compiler
+- libseccomp library and headers
+
+```
+go get github.com/foxcpp/scmp-confine
+```
+
 ## Usage
 
 See `-help` output:
